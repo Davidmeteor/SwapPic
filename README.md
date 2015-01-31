@@ -8,4 +8,3 @@ My first SWIFT project! -- Use two buttons to swap the different picture
 4. Assign the initial value of each compoent
 5. how to add the files/pic to the project
 6. create the UIImage
-7. 
